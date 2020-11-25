@@ -1,8 +1,6 @@
 ### Hi there, I'm Christian Trindade!
 
 <br />
-<br />
-
 Hi, I'm Christian Trindade, 26 years old, full stack developer, with experience in mobile development with React Native and Ionic, web front-end with ReactJs and back-end with NodeJs.
 
 - 🔭 I’m currently working on [beRap](https://berap.com.br)
