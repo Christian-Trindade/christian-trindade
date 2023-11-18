@@ -2,10 +2,10 @@
 
 <br />
 Senior developer and technical leader with 9 years of experience in the development field, specialized in Javascript/Typescript for ReactJs and NodeJs web applications, focusing on clean code and application scalability..
-
+<br />
 - 🔭 I’m currently working on [Flopo](https://flopo.com.br), as technical leader.
 - 💬 You can get to know me better [here](https://www.linkedin.com/in/christian-trindade)
-
+<br \>
 **Languages and Tools:**
 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
