@@ -1,10 +1,12 @@
 ### Hi there, I'm Christian Trindade!
 
 <br />
-Senior developer and technical leader with 9 years of experience in the development field, specialized in Javascript/Typescript for ReactJs and NodeJs web applications, focusing on clean code and application scalability..
+Senior developer and technical leader with 9 years of experience in the development field, specialized in Javascript/Typescript for ReactJs and NodeJs web applications, focusing on clean code and application scalability.
+
 
 - 🔭 I’m currently working on [Flopo](https://flopo.com.br), as technical leader.
 - 💬 You can get to know me better [here](https://www.linkedin.com/in/christian-trindade)
+
 
 **Languages and Tools:**
 
