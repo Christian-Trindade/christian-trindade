@@ -4,7 +4,7 @@
 Senior developer and technical leader with 9 years of experience in the development field, specialized in Javascript/Typescript for ReactJs and NodeJs web applications, focusing on clean code and application scalability.
 
 
-- 🔭 I’m currently working on [GLOBO](https://globo.com.br), as technical leader.
+- 🔭 I’m currently working on [GLOBO](https://globo.com), as technical leader.
 - 💬 You can get to know me better [here](https://www.linkedin.com/in/christian-trindade)
 
 
